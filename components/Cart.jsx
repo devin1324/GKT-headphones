@@ -91,6 +91,7 @@ const Cart = () => {
               </div>
             ))}
         </div>
+        
         {cartItems.length >= 1 && (
           <div className="cart-bottom">
             <div className="total">
